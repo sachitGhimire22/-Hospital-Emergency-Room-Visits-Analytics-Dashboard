@@ -1,6 +1,6 @@
 # 🏥 Hospital Emergency Room Visits Analytics Dashboard
 
----
+
 
 ## ✌️ Welcome to the Hospital Emergency Room Visits Analytics Dashboard
 
@@ -47,7 +47,7 @@ This analysis is based on the data provided by the hospital, covering the period
 
 An interactive Tableau dashboard used to report and explore trends can be found here: \[Link]
 
----
+
 
 ## 📊 Data Structure & Initial Checks
 
@@ -68,7 +68,7 @@ The hospital's data infrastructure consists of two primary tables used in this d
 * A structured calendar table used to support time-based analyses.
 * Ensures correct sorting and filtering of date-related visuals like trends and distributions over time.
 
----
+
 
 ## 📃 Executive Summary
 
@@ -80,7 +80,7 @@ The emergency room dashboard reveals three key insights:
 2. While average wait times are moderate, certain departments like Neurology and Physiotherapy experience higher delays, indicating areas for operational improvement.
 3. Patient satisfaction remains impressively high across all demographics, suggesting strong overall performance, particularly among Pacific Islander and African American patients.
 
----
+
 
 ## 🔍 Insights
 
@@ -150,7 +150,7 @@ The emergency room dashboard reveals three key insights:
 * African Americans: **5.07**
 * → Suggests highly effective care delivery for these groups
 
----
+
 
 ## 🔗 Actionable Recommendations ✨
 
@@ -179,7 +179,7 @@ The emergency room dashboard reveals three key insights:
 * Incomplete fields (e.g., Gender: Not Confirmed)
 * → Enforce stricter data validation and entry protocols
 
----
+
 
 ## 🙏 THANK YOU
 
