@@ -2,7 +2,7 @@
 
 
 
-## ✌️ Welcome to the Hospital Emergency Room Visits Analytics Dashboard
+Welcome to the Hospital Emergency Room Visits Analytics Dashboard
 
 
 
