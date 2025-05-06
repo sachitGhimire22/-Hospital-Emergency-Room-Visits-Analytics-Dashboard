@@ -81,7 +81,7 @@ The emergency room dashboard reveals three key insights:
 2. While average wait times are moderate, certain departments like Neurology and Physiotherapy experience higher delays, indicating areas for operational improvement.
 3. Patient satisfaction remains impressively high across all demographics, suggesting strong overall performance, particularly among Pacific Islander and African American patients.
 
-![image](https://github.com/user-attachments/assets/37c5e8ca-3342-4af7-8dce-e1e93c2a655e)
+![image](https://github.com/user-attachments/assets/07bdd480-309a-4c2d-9d8b-1a6f58fada4e)
 
 ## 🔍 Insights
 
