@@ -68,6 +68,7 @@ The hospital's data infrastructure consists of two primary tables used in this d
 * A structured calendar table used to support time-based analyses.
 * Ensures correct sorting and filtering of date-related visuals like trends and distributions over time.
 
+![Screenshot 2025-05-06 125211](https://github.com/user-attachments/assets/b27f634a-e50c-4079-a49b-d47f20cd3f63)
 
 
 ## 📃 Executive Summary
@@ -80,7 +81,7 @@ The emergency room dashboard reveals three key insights:
 2. While average wait times are moderate, certain departments like Neurology and Physiotherapy experience higher delays, indicating areas for operational improvement.
 3. Patient satisfaction remains impressively high across all demographics, suggesting strong overall performance, particularly among Pacific Islander and African American patients.
 
-
+![image](https://github.com/user-attachments/assets/37c5e8ca-3342-4af7-8dce-e1e93c2a655e)
 
 ## 🔍 Insights
 
